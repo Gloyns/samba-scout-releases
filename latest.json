@@ -1,0 +1,13 @@
+{
+ "version": "0.2.0",
+ "notes": "Samba Scout 0.2.0: player faces and club badges, a filter sidebar, a Staff screen, a menu bar icon, one-click updates and a new Scouting desk look.",
+ "minShell": "0.2.0",
+ "zip": {
+  "url": "https://github.com/Gloyns/samba-scout-releases/releases/download/v0.2.0/samba-scout-0.2.0.zip",
+  "sha256": "26800e982268692cda3aa1b4ef3c0da484c4c1f52981c8f4930784c7da6efca0"
+ },
+ "app": {
+  "version": "0.2.0",
+  "url": "https://github.com/Gloyns/samba-scout-releases/releases/download/v0.2.0/Samba%20Scout%200.2.0.dmg"
+ }
+}
